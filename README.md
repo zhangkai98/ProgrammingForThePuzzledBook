@@ -1,0 +1,2 @@
+# ProgrammingForThePuzzledBook
+The code for the book《PROGRAMMING FOR THE PUZZLED: LEARN TO PROGRAM WHILE SOLVING PUZZLES》
